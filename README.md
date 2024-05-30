@@ -1,4 +1,4 @@
-# Assignment - Validation check (Mobile Number and Email)
+# Assignment - Validation check
 
 ## Features
 
